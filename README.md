@@ -1,1 +1,6 @@
-A New And Better Impl Of M3 WeatherApp , Mainly Made For 3rd OS Project
+Tech Stack
+-Kotlin 
+-Jetpack Compose 
+-Ktor
+-Jetpack DataStore
+-Google Maps Api
